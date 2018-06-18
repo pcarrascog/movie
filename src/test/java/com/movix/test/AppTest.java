@@ -20,7 +20,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithFalse()
     {
-        assertFalse( false);
+        assertTrue( true );
     }
 }
 
