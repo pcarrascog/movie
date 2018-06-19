@@ -17,6 +17,11 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void testEnVivo()
+    {
+        assertTrue (true);
+    }
 
 }
 
