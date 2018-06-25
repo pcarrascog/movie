@@ -17,7 +17,7 @@ public class AppTest
     {
         assertTrue( false );
     }
-    
+    @Test
     public void testEnVivo()
     {
         assertTrue (true);
