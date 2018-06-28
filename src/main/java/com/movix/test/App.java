@@ -1,4 +1,4 @@
-package com.movix.test;
+package com.movie.test;
 
 /**
  * Hello world!
