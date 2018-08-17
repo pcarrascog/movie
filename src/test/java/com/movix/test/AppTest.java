@@ -22,6 +22,12 @@ public class AppTest
     {
         assertTrue ( true );
     }
+    
+    @Test
+    public void capacitacion1708()
+    {
+        assertTrue ( false );
+    }
 
 }
 
