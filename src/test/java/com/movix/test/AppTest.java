@@ -38,7 +38,7 @@ public class AppTest
     @Test
     public void capacitacion1708a()
     {
-        assertTrue ( False );
+        assertTrue ( false );
     }
 }
 
