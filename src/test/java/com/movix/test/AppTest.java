@@ -40,6 +40,18 @@ public class AppTest
     {
         assertTrue ( false );
     }
+    
+    @Test
+    public void capacitacion1708c()
+    {
+        assertTrue ( true );
+    }
+    
+    @Test
+    public void capacitacion1708d()
+    {
+        assertTrue ( true );
+    }
 }
 
 
